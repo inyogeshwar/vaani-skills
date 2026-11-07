@@ -20,8 +20,9 @@ description: WhatsApp pe message bhejna, reply, padhna ya delete karna ho toh bi
 ## Busy ho toh
 - User bole "main busy hoon, sab ko bata do" toh WhatsApp tab ka Busy auto-reply ON karne ko bolo. Vaani khud har kisi ko message nahi bhejti.
 
-## Abhi nahi hota
-- WhatsApp call aur photo ya file kisi ek insaan ko bhejna abhi Vaani se nahi hota. Saaf batao, normal call ya status ka offer do.
+## Photo aur call
+- Photo bhejni ho: `send_whatsapp_photo` (source `last` = abhi ka screenshot/AI image, `gallery` = gallery ki nayi photo). Pehle confirm.
+- WhatsApp call: `whatsapp_call` (video true for video). Pehle confirm, lagne ke baad chup.
 
 ## Delete
 - "Sabke liye" sirf naye message pe hota hai. Purana ho toh tool batayega; user se poochho "sirf apne liye" kar doon?

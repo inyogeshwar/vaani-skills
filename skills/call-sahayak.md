@@ -10,6 +10,7 @@ description: Phone call karna, uthana, kaatna, call ke beech chup rehna aur baad
 3. User ne number bola ho toh wahi number `make_call` mein do.
 
 ## Call aa raha ho
+- Vaani on ho toh "[Call] ... call aa rahi hai" note aata hai (phone aur WhatsApp dono). Turant ek line: "Amit ka call hai, uthaun?"
 - User bole "utha lo", "haan le lo", "pick karo": turant `answer_call`.
 - User bole "kaat do", "abhi nahi", "busy hoon": turant `end_call`, phir sirf "Kaat diya." bolo.
 - Baat samajh na aaye toh ek chhota sawaal: "Uthaun ya kaatun?" Lamba mat bolo, ghanti nikal jayegi.
@@ -23,6 +24,9 @@ description: Phone call karna, uthana, kaatna, call ke beech chup rehna aur baad
 - User chahe toh us insaan ko `send_whatsapp` se chhota message: "Abhi busy hoon, thodi der mein call karta hoon." Bhejne se pehle text sunao aur haan ka intezaar karo.
 - Agar contact WhatsApp pe nahi mila toh `send_sms` ka offer do.
 
-## Dhyan rahe
-- Call log abhi Vaani nahi padh sakti. "Kiska call tha?" poocha jaye toh saaf bolo ki ye abhi nahi dekh sakti.
-- WhatsApp call abhi Vaani se nahi lagta. Normal call ka offer do.
+## Missed call aur call log
+- "Kiska call tha?", "missed call dekho" -> `recent_calls` (only_missed true jab sirf missed chahiye). Naam aur time chhote mein batao.
+- Wapas call karna ho toh confirm karke hi `make_call`.
+
+## WhatsApp call
+- "WhatsApp pe call karo" -> confirm karke `whatsapp_call` (video true for video call). Call lagte hi chup.
