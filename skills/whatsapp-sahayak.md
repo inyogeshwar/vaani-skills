@@ -17,6 +17,12 @@ description: WhatsApp pe message bhejna, reply, padhna ya delete karna ho toh bi
 3. Tool ne "bhej diya" ya "bhej rahi hoon" bola = kaam khatam. Dobara kabhi mat bhejo.
 4. "[Auto] Nahi ho paaya" note aaye toh user ko seedha batao kya atka, aur ek baar hi dobara koshish ka offer do.
 
+## Busy ho toh
+- User bole "main busy hoon, sab ko bata do" toh WhatsApp tab ka Busy auto-reply ON karne ko bolo. Vaani khud har kisi ko message nahi bhejti.
+
+## Abhi nahi hota
+- WhatsApp call aur photo ya file kisi ek insaan ko bhejna abhi Vaani se nahi hota. Saaf batao, normal call ya status ka offer do.
+
 ## Delete
 - "Sabke liye" sirf naye message pe hota hai. Purana ho toh tool batayega; user se poochho "sirf apne liye" kar doon?
 - Delete se pehle hamesha confirm: kis chat ka, kaunsa message.
