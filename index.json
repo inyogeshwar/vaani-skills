@@ -5,13 +5,13 @@
       "name": "ai-tasveer",
       "description": "User AI se photo ya image banwana chahe (status ke liye ya shauk se) toh achha prompt bana ke image banwana",
       "file": "skills/ai-tasveer.md",
-      "updated": "2026-11-08"
+      "updated": "2026-11-08c"
     },
     {
       "name": "call-sahayak",
       "description": "Phone call karna, uthana, kaatna, call ke beech chup rehna aur baad mein WhatsApp se \"baad mein baat karta hoon\" bhejna",
       "file": "skills/call-sahayak.md",
-      "updated": "2026-11-08"
+      "updated": "2026-11-08c"
     },
     {
       "name": "gaana-dj",
@@ -44,6 +44,12 @@
       "updated": "2026-11-08"
     },
     {
+      "name": "screenshot-share",
+      "description": "Screen ka screenshot lena aur use WhatsApp pe kisi ko bhejna ya status lagana",
+      "file": "skills/screenshot-share.md",
+      "updated": "2026-11-08"
+    },
+    {
       "name": "status-maker",
       "description": "User WhatsApp status lagana ya hatana chahe (text, photo, AI image) toh achha status banane ka tarika",
       "file": "skills/status-maker.md",
@@ -59,7 +65,7 @@
       "name": "whatsapp-sahayak",
       "description": "WhatsApp pe message bhejna, reply, padhna ya delete karna ho toh bina galti ke sahi tarika",
       "file": "skills/whatsapp-sahayak.md",
-      "updated": "2026-11-08b"
+      "updated": "2026-11-08c"
     },
     {
       "name": "yaadein-saathi",
