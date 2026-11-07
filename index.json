@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "name": "gaana-dj",
+      "description": "Gaana, bhajan ya video bajana, mood ke hisaab se gaana chunna aur music control karna",
+      "file": "skills/gaana-dj.md",
+      "updated": "2026-11-08"
+    },
+    {
+      "name": "mausam-safar",
+      "description": "Mausam, kahin jaane ki taiyari, ya kisi jagah/cheez ke baare mein jaankari chahiye toh free tools se jawab dena",
+      "file": "skills/mausam-safar.md",
+      "updated": "2026-11-08"
+    },
+    {
+      "name": "padhai-focus",
+      "description": "User padhai ya kaam pe focus karna chahe toh timer, break aur chhota recap wala focus session chalana",
+      "file": "skills/padhai-focus.md",
+      "updated": "2026-11-08"
+    },
+    {
+      "name": "phone-care",
+      "description": "Battery kam ho, phone garam ya slow ho, torch/volume theek karna ho toh phone ka khayal rakhna",
+      "file": "skills/phone-care.md",
+      "updated": "2026-11-08"
+    },
+    {
+      "name": "status-maker",
+      "description": "User WhatsApp status lagana ya hatana chahe (text, photo, AI image) toh achha status banane ka tarika",
+      "file": "skills/status-maker.md",
+      "updated": "2026-11-08"
+    },
+    {
+      "name": "subah-briefing",
+      "description": "User \"good morning\", \"aaj ka update do\" ya \"din kaisa hai\" bole to ek hi baar mein poora subah ka update dena",
+      "file": "skills/subah-briefing.md",
+      "updated": "2026-11-08"
+    },
+    {
+      "name": "whatsapp-sahayak",
+      "description": "WhatsApp pe message bhejna, reply, padhna ya delete karna ho toh bina galti ke sahi tarika",
+      "file": "skills/whatsapp-sahayak.md",
+      "updated": "2026-11-08"
+    },
+    {
+      "name": "yaadein-saathi",
+      "description": "User kuch yaad rakhne, yaad dilane ya bhoolne ko kahe, ya apne baare mein kuch bataye toh Yaadein sahi se sambhalna",
+      "file": "skills/yaadein-saathi.md",
+      "updated": "2026-11-08"
+    }
+  ]
+}
