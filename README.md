@@ -17,7 +17,7 @@ Hinglish steps that use Vaani's real tools...
 ```
 
 - Only the `description` sits in Vaani's prompt all the time. The body (max 6000 chars) loads when Vaani calls `use_skill`.
-- Write steps with Vaani's tool names: make_call, send_sms, find_contact, set_alarm, set_timer, timer_control, play_youtube, media_control, end_call, answer_call, go_home, stop_assistant, open_app, torch, set_volume, battery_status, get_datetime, get_weather, lookup_info, web_search, remember_fact, recall_memory, forget_memory, send_whatsapp, reply_whatsapp, read_whatsapp, post_whatsapp_status, delete_whatsapp_message, delete_whatsapp_status.
+- Write steps with Vaani's tool names: make_call, send_sms, find_contact, set_alarm, set_timer, timer_control, play_youtube, media_control, end_call, answer_call, go_home, stop_assistant, open_app, torch, set_volume, battery_status, get_datetime, get_weather, lookup_info, web_search, remember_fact, recall_memory, forget_memory, send_whatsapp, reply_whatsapp, read_whatsapp, post_whatsapp_status, delete_whatsapp_message, delete_whatsapp_status, navigate, nearby_places, send_email, telegram_send, todoist, watchman, touch_guard, send_sos, read_screen.
 
 ## Add or update a skill
 1. Add or edit `skills/<name>.md`.

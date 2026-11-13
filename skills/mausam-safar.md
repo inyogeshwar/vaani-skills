@@ -14,4 +14,5 @@ description: Mausam, kahin jaane ki taiyari, ya kisi jagah/cheez ke baare mein j
 
 ## Safar
 - Kahin ja rahe hon toh: wahan ka mausam, kya saath le jaana (charger, paani, chhata), aur alarm ka offer (`set_alarm`).
+- Raasta chahiye toh `navigate`, paas ki jagah ke liye `nearby_places` (poore steps raasta-nearby skill mein).
 - Ticket ya booking Vaani nahi kar sakti; seedha bolo aur app kholne ka offer do (`open_app`).

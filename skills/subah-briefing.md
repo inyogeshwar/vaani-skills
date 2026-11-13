@@ -12,6 +12,7 @@ Sab cheezein chupchaap check karo, phir EK chhoti si baat mein sunao.
 3. `battery_status` se battery.
 4. `read_whatsapp` bina naam ke: raat se kiske message aaye.
 5. `recall_memory` mein "aaj" ya "kaam" dhoondo: koi kaam ya tareekh yaad rakhne ko kaha tha kya.
+6. `todoist` action today: Todoist connect ho toh aaj ke kaam (error aaye toh chupchaap chhod do).
 
 ## Kaise bolna hai
 - 3-5 line, Hinglish, garam lehje mein: "Good morning! Aaj Ravivaar hai, Patna mein 24 degree aur dhoop. Rahul aur ek group ka message aaya hai. Battery 38% hai, charge laga lo."
